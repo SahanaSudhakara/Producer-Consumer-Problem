@@ -1,5 +1,3 @@
-Assigment submitted by Sahana Sudhakara
-email: SSudhakara@scu.edu
 
 **Results:**
 
